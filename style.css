@@ -1,0 +1,17 @@
+.titulo{
+    background-color: rgb(246, 246, 247);
+    text-align: center;
+}
+body {
+    background-color: rgb(72, 42, 119);
+    font-family: Arial, Times New Roman;
+    font-size: 22px;
+    font-weight: bold;
+  font-style: italic;
+  font-variant: italic;
+  }
+    .favicon {
+      width: 32px;
+      height: 32px;    
+    }
+  
